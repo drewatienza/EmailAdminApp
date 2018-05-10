@@ -3,6 +3,6 @@ package com.drewatienza;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    Email em1 = new Email("Drew", "Atienza");
     }
 }
